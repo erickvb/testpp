@@ -1,0 +1,17 @@
+{
+    "name": "api-comprar-pelicula",
+    "version": "1.0.0",
+    "description": "servicio lambda",
+    "main": "index.js",
+    "scripts": {
+        "test-dev": "jest"
+    },
+    "keywords": [],
+    "author": "Erick vb",
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "dependencies": {
+        "node-fetch": "^2.6.1",
+        "uuid": "^8.3.1"
+    }
+}
